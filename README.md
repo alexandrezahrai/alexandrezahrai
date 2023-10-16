@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **advanced JavaScript and React.js**
 
-- 👨‍💻 All of my projects are available at [https://alexandre-zahrai.vercel.app/](https://alexandre-zahrai.vercel.app/)
+- 👨‍💻 My personal website can be viewed at [https://alexandre-zahrai.vercel.app/](https://alexandre-zahrai.vercel.app/)
 
 - 📄 Know about my experiences [https://alexandre-zahrai.vercel.app/Resume_Alexandre_Zahrai.pdf](https://alexandre-zahrai.vercel.app/Resume_Alexandre_Zahrai.pdf)
 
