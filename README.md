@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 My personal website can be viewed at [https://alexandre-zahrai.vercel.app/](https://alexandre-zahrai.vercel.app/)
+- 👨‍💻 My personal website can be viewed [here](https://alexandre-zahrai.vercel.app/)
 
-- 📄 Know about my experiences [https://alexandre-zahrai.vercel.app/Resume_Alexandre_Zahrai.pdf](https://alexandre-zahrai.vercel.app/Resume_Alexandre_Zahrai.pdf)
+- 📄 Check out my resume [here](https://alexandre-zahrai.vercel.app/Resume_Alexandre_Zahrai.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
