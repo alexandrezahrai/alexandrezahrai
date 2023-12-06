@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alex!</h1>
+<h1 align="center">Hi, I'm Alex!</h1>
 <h3 align="center">A passionate frontend developer from Michigan (USA).</h3>
 
 - 🌱 I’m currently learning **Next.js**
